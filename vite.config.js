@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/vite-project/', // << REPLACE with your actual repo name
+  base: '/clientlearningprotocol.io/',
 });
